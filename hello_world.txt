@@ -1,2 +1,3 @@
 my new git demo
 the second line just to check
+the third line for mor emphasis
