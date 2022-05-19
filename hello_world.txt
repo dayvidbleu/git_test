@@ -1,1 +1,2 @@
 my new git demo
+the second line just to check
